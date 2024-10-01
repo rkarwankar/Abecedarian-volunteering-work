@@ -21,7 +21,7 @@ Key Activities:
 - Overcame challenges related to model format differences and data handling by implementing a middleware solution.
 - Ensured modular integration to facilitate future improvements.
 
-[Link for workflow(ComfyUI)](<https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/Week%201%20-%202%20(19th%20Aug%20-%201st%20Sept)/Screenshots%20and%20results>)
+[Link for workflow(ComfyUI)](<https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/Week%203%20-%204%20(2nd%20Sept%20-%2015th%20Sept)>) Please use this Guide to downaload and run the workflows
 
 [Link for Python Notebook](<https://github.com/rkarwankar/Abecedarian-volunteering-work/blob/main/Week%201%20-%202%20(19th%20Aug%20-%201st%20Sept)/Python%20Notebook%20With%20FluxAI/FluxAI%20Schnell%20and%20dev%20tutorial.ipynb>)
 
@@ -78,4 +78,4 @@ Key Activities:
 - A challenge was narrowing down MidJourney’s broad usage potential into actionable insights. This was resolved by focusing on the most practical and commonly used features.
 - Another challenge was balancing the level of detail to ensure accessibility for all skill levels, which is being managed by creating separate sections for beginners and advanced users.
 
-Link for Documentaion/PPT:
+[Link for Documentaion/PPT](https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/week_5and6)
