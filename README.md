@@ -21,9 +21,11 @@ Key Activities:
 - Overcame challenges related to model format differences and data handling by implementing a middleware solution.
 - Ensured modular integration to facilitate future improvements.
 
-Link for workflow(ComfyUI):
-Link for Python Notebooks:
-Screenshots and results:
+[Link for workflow(ComfyUI)](<https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/Week%201%20-%202%20(19th%20Aug%20-%201st%20Sept)/Screenshots%20and%20results>)
+
+[Link for Python Notebook](<https://github.com/rkarwankar/Abecedarian-volunteering-work/blob/main/Week%201%20-%202%20(19th%20Aug%20-%201st%20Sept)/Python%20Notebook%20With%20FluxAI/FluxAI%20Schnell%20and%20dev%20tutorial.ipynb>)
+
+[Screenshots and results](<https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/Week%201%20-%202%20(19th%20Aug%20-%201st%20Sept)/Screenshots%20and%20results>)
 
 **Week 3 - 4 (2nd Sept - 15th Sept): Writing a Comprehensive Guide on Using FluxAI with ComfyUI and Python Notebooks**
 This week was dedicated to drafting a comprehensive book focused on utilizing FluxAI with ComfyUI and Python notebooks. The aim is to create a clear, structured guide that enables users to efficiently leverage these tools for generative AI tasks.
@@ -49,7 +51,7 @@ Key Activities:
 - Ensured that technical explanations remain accessible without oversimplifying advanced concepts.
 - Incorporated diagrams and visuals to break down complex workflows, making it easier for readers to grasp.
 
-Link for the FluxAi Guide/Book:
+[Link for the FluxAi Guide/Book](<https://github.com/rkarwankar/Abecedarian-volunteering-work/tree/main/Week%203%20-%204%20(2nd%20Sept%20-%2015th%20Sept)>)
 
 **Week 5 - 6 (16th Sept - 29th Sept): Researching MidJourney and Developing a Comprehensive Documentation**
 This week focused on in-depth research into MidJourney, its usage, and preparing a comprehensive presentation that will later be expanded into an eBook. The aim is to explore the full potential of MidJourney’s image generation capabilities, offering practical insights for users.
